@@ -1,0 +1,10 @@
+# tunnel binary (not part of the website, 51 MB)
+cloudflared.exe
+
+# python cache
+__pycache__/
+*.pyc
+
+# OS junk
+Thumbs.db
+.DS_Store
